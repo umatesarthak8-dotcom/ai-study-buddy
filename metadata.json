@@ -1,0 +1,8 @@
+{
+  "name": "AI Study Buddy",
+  "description": "AI-powered study assistant for engineering students to summarize lecture notes, highlight formulas and concepts, generate 10 high-yield exam questions, take interactive MCQ quizzes, and master flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
