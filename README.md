@@ -75,4 +75,5 @@ Designed with a modern AI SaaS aesthetic inspired by platforms like Linear, Noti
 - **Frontend**: React 19, TypeScript, Tailwind CSS, Lucide React, Canvas Confetti.
 - **Backend**: Express on Node.js, Vite Dev Middleware (Full-Stack).
 - **AI SDK**: `@google/genai` TypeScript SDK with resilient multi-model fallback.
+  
 Try it here -https://ai-study-buddy-6185.ai.studio
